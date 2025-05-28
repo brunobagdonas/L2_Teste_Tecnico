@@ -12,7 +12,7 @@ namespace L2_Teste_Tecnico.Data.Repositories
             var dbConnection = transaction.Connection;
 
             const string sql = @"
-                        INSERT INTO [Order] (OrderDate)
+                        INSERT INTO [Orders] (OrderDate)
                         OUTPUT INSERTED.OrderId
                         VALUES (GETDATE());";
 

@@ -1,0 +1,6 @@
+@L2_Teste_Tecnico_HostAddress = http://localhost:5079
+
+GET {{L2_Teste_Tecnico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

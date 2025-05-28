@@ -1,6 +1,6 @@
 # 📦 L2 - Teste Técnico
 
-Projeto de API para otimização de empacotamento de pedidos em caixas, desenvolvido com **.NET 8**, **Dapper** e **SQL Server**, com suporte a **Docker**.
+Projeto de API para otimização de empacotamento de pedidos em caixas, desenvolvido com **.NET 8**, **Dapper** e **SQL Server**, com suporte a **Docker**. Fiz até a parte do docker, na qual tive bastante dificuldade pra subir o banco. Localmente esta funcionando. Decidi deixar o passo a passo, mesmo assim.
 
 ---
 
